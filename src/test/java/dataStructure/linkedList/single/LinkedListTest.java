@@ -1,5 +1,6 @@
 package java.dataStructure.linkedList.single;
 
+import dataStructure.linkedList.single.LinkedList;
 import org.junit.Test;
 
 import java.util.ArrayList;

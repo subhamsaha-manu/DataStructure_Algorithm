@@ -1,4 +1,4 @@
-package java.dataStructure.stack;
+package dataStructure.stack;
 
 public class TwoStackInOneArray {
 
