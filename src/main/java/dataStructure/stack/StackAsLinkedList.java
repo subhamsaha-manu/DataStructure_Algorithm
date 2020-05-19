@@ -1,4 +1,4 @@
-package main.java.dataStructure.stack;
+package java.dataStructure.stack;
 
 public class StackAsLinkedList<E> {
 

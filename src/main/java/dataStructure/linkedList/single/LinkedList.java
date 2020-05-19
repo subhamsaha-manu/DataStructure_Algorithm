@@ -1,4 +1,4 @@
-package main.java.dataStructure.linkedList.single;
+package java.dataStructure.linkedList.single;
 
 import java.util.*;
 

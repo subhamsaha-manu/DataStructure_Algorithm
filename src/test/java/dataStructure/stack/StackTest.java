@@ -1,6 +1,6 @@
-package test.java.dataStructure.stack;
+package java.dataStructure.stack;
 
-import main.java.dataStructure.stack.StackAsLinkedList;
+
 import org.junit.Assert;
 import org.junit.Test;
 

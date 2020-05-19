@@ -1,8 +1,9 @@
-package main.java.dataStructure.tree.binaryTree;
+package java.dataStructure.tree.binaryTree;
+
 
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
+
 
 public class BinaryTreeTraversal {
 

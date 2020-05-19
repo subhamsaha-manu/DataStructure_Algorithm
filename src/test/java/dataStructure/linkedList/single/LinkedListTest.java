@@ -1,9 +1,8 @@
-package test.java.dataStructure.linkedList.single;
+package java.dataStructure.linkedList.single;
+
+import org.junit.Test;
 
 import java.util.ArrayList;
-
-import main.java.dataStructure.linkedList.single.LinkedList;
-import org.junit.Test;
 
 import static junit.framework.TestCase.assertFalse;
 import static org.junit.Assert.*;

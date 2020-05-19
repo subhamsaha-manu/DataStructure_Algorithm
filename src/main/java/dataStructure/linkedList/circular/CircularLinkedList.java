@@ -1,4 +1,4 @@
-package main.java.dataStructure.linkedList.circular;
+package java.dataStructure.linkedList.circular;
 
 import java.util.ArrayList;
 import java.util.List;

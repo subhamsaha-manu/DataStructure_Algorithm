@@ -1,4 +1,4 @@
-package main.java.dataStructure.tree.binaryTree;
+package java.dataStructure.tree.binaryTree;
 
 class Node{
 
