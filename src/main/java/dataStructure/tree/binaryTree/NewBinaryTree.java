@@ -25,21 +25,22 @@ public class NewBinaryTree {
 
     public void createTree(Node root){
 
-        root.left = new Node(2);
-        root.right = new Node(3);
+        root.left = new Node(20);
+        root.right = new Node(30);
 
         /*
-                    1
+                    10
                   /  \
-                2     3
+                20     30
               /  \  /  \
           null null null   null
         */
 
-        root.left.right = new Node(5);
+        /*root.left.right = new Node(5);
 
         root.right.left = new Node(6);
-        root.right.right = new Node(7);
+        root.right.right = new Node(7);*/
+        root.right.right = new Node(40);
     }
 
     public Node getRoot(){
@@ -47,7 +48,7 @@ public class NewBinaryTree {
     }
     public static void main(String [] a){
         NewBinaryTree nbt = new NewBinaryTree();
-        root = new Node(1);
+        root = new Node(10);
 
         /*
                     1
